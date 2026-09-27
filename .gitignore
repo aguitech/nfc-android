@@ -1,0 +1,31 @@
+# Gradle
+.gradle/
+build/
+local.properties
+.idea/
+
+# Android Studio
+*.iml
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Kotlin
+*.hprof
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Secrets
+*.jks
+keystore.properties
+google-services.json
+local.defaults.properties
+
+# Test reports
+test-output/
+test-results/
